@@ -47,6 +47,7 @@ cp .env.example .env
 
 ```env
 REACT_APP_API_URL=http://localhost:5000/api
+REACT_APP_DEMO_MODE=true # 无后端环境时启用本地演示数据和图表
 ```
 
 ### 开发模式运行
